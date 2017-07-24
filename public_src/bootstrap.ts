@@ -1,5 +1,6 @@
 /// <reference path="./typings/require.d.ts"/>
 /// <reference path="./typings/leaflet.vectorgrid.d.ts"/>
+/// <reference path="./typings/leaflet.timedimension.d.ts"/>
 
 import "leaflet";
 import "leaflet.vectorgrid";
